@@ -10,7 +10,7 @@
   .item-container {
     flex-basis: 100%;
     min-height: 100px;
-    border: 1px solid #ccc;
+    border: 2px solid blue;
     padding: 5px;
   }
   
